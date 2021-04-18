@@ -11,6 +11,9 @@ Scaffolded using Firebase CLI
 ## To use:
 
 ```bash
+# Install dependencies
+npm i
+
 # Runs locally
 npm run serve
 
